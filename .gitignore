@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# MATLAB
+*.asv
+slprj/
+
+# Large intermediate MATLAB results are regenerated, not tracked
+code/irfmatching/matlab/_scratch/
