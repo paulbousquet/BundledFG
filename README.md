@@ -1,6 +1,6 @@
 # BundledFG
 
-Replication package for "Estimating Impulse Responses to Bundled Forward Guidance".
+Replication package for "[Estimating Impulse Responses to Bundled Forward Guidance](https://pbousquet.com/assets/BundledFG.pdf)". See the Online Appendix at `BundledOnline.pdf`. 
 
 ## Requirements
 
